@@ -300,27 +300,6 @@ Formação prática baseada em projetos, com foco em:
 
 ---
 
-# 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MariaAndrade-25&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaAndrade-25&layout=compact&theme=transparent&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MariaAndrade-25&theme=transparent&hide_border=true" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MariaAndrade-25/MariaAndrade-25/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-</p>
-
----
-
 # 🌱 Além do código
 
 Acredito que programação não é apenas escrever código.
